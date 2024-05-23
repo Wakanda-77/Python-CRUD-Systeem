@@ -22,5 +22,5 @@ A simple menu-driven interface is provided for interaction.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Wakanda-77/CRUD-Systeem.git
-cd CRUD-Systeem
+git clone https://github.com/Wakanda-77/Python-CRUD-Systeem.git
+cd Python-CRUD-Systeem
